@@ -1,0 +1,78 @@
+{
+  "baseInfo": {
+    "name": "怪兽马尔克",
+    "description": "专注于AI大模型开发与应用，致力于构建智能化解决方案。拥有丰富的前端和后端开发经验，特别擅长AI应用开发和桌面应用程序开发。",
+    "avatar": "/images/mark.jpg",
+    "status": "online"
+  },
+  "socialLinks": [
+    { "iconName": "Globe", "label": "个人博客", "url": "https://blog.markqq.com" },
+    { "iconName": "Github", "label": "GitHub", "url": "https://github.com/markcxx" }
+  ],
+  "contactInfo": [
+    { "iconName": "Mail", "label": "邮箱", "value": "mark@example.com" },
+    { "iconName": "MessageCircle", "label": "微信", "value": "mark_wechat" },
+    { "iconName": "User", "label": "QQ", "value": "12345678" }
+  ],
+  "skills": [
+    { "iconName": "Code", "name": "MCP协议开发" },
+    { "iconName": "Database", "name": "RAG系统构建" },
+    { "iconName": "Brain", "name": "大模型开发" },
+    { "iconName": "Database", "name": "语料训练" },
+    { "iconName": "Brain", "name": "模型微调" },
+    { "iconName": "Zap", "name": "AI应用开发" },
+    { "iconName": "Code", "name": "PyQt软件开发" },
+    { "iconName": "Globe", "name": "全栈开发" },
+    { "iconName": "Laptop", "name": "桌面应用开发" }
+  ],
+  "techStack": [
+    "React",
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Node.js",
+    "Vue.js",
+    "Qt",
+    "PyQt",
+    "FastAPI",
+    "Electron"
+  ],
+  "projects": [
+    {
+      "title": "CoCoMusic",
+      "description": "集合多平台（网易云音乐、酷狗音乐、酷我音乐等）的免付费音乐平台桌面软件，为用户提供统一的音乐播放体验。",
+      "features": ["多平台整合", "免费音乐", "桌面应用", "统一体验"],
+      "github": "https://github.com/markcxx/CoCoMusicRelease",
+      "iconName": "Music",
+      "type": "amber",
+      "url": "https://coco.markqq.com"
+    },
+    {
+      "title": "XiaoZhi AI桌面版",
+      "description": "基于ESP32小智AI应用开发的电脑桌面版应用，支持MCP调用，为没有硬件条件的人群提供使用便利",
+      "features": ["多平台支持", "XiaoZhiAI", "语音对话", "MCP调用"],
+      "github": "https://github.com/markcxx/Xiaozhi-ai",
+      "iconName": "Video",
+      "type": "blue",
+      "url": "https://github.com/markcxx/Xiaozhi-ai"
+    },
+    {
+      "title": "墨墨天气API",
+      "description": "基于和风天气的后端天气服务接口，支持天气预报，实时天气，空气质量预测等，支持MCP服务",
+      "features": ["全栈开发", "Fastapi", "天气服务", "MCP调用"],
+      "github": "https://github.com/markcxx/momoweather",
+      "iconName": "Video",
+      "type": "green",
+      "url": "https://momoweather.markqq.com"
+    },
+    {
+      "title": "MarkAI大模型服务",
+      "description": "提供世界上所有开源或闭源的大模型服务，支持主流模型如gpt-5,claude-sonnect-4-5,doubao等，支持MCP服务",
+      "features": ["多平台支持", "OPENAI协议", "大模型服务", "MCP调用"],
+      "github": "#",
+      "iconName": "Video",
+      "type": "purple",
+      "url": "https://chatai.markqq.com"
+    }
+  ]
+}
