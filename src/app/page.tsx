@@ -238,6 +238,8 @@ export default function Home() {
             {[
               { id: 'gequbao', name: '歌曲宝' },
               { id: 'gequhai', name: '歌曲海' },
+              { id: 'bugu', name: '布谷' },
+              { id: 'qq', name: 'QQ音乐' },
               { id: 'qqmp3', name: 'QQMP3' },
               { id: 'migu', name: '咪咕' },
               { id: 'livepoo', name: '力音' }
